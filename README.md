@@ -239,7 +239,3 @@ This project is part of the **mcdtm.pl** ecosystem. Before contributing, review 
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-*Maintained by the mcdtm.pl team.*

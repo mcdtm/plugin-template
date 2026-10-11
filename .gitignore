@@ -243,3 +243,7 @@ secring.*
 run/
 run-*/
 runs/
+
+# Local libraries and personal notes
+.local_libraries/
+.notes/
